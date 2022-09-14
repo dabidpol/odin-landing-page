@@ -168,3 +168,15 @@ h2 {
     border-radius: 8px;
 }
 
+.footer {
+    display: flex;
+    height: 100px;
+    background: #1F2937;
+    align-items: center;
+    justify-content: center;
+}
+
+h5 {
+    color: white;
+    
+}
