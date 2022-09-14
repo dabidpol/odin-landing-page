@@ -74,6 +74,7 @@ h4 {
 
 h2 {
     text-align: center;
+    
 }
 
 .body2 {
@@ -124,3 +125,46 @@ h2 {
     height: 300px;
     padding: 8px;
 }
+
+.body4 {
+    display: flex;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.body4inside {
+    height: 150px;
+    width: 800px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #3882f6;
+}
+
+.calltoaction {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.calltoaction2 {
+    margin: 0;
+}
+
+.buttons {
+    
+    display: flex;
+    align-items: center;
+    
+}
+
+.button2 {
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
