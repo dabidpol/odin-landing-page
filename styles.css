@@ -71,3 +71,36 @@ h4 {
     color:#F9FAF8;
     text-align: center;
 }
+
+h2 {
+    text-align: center;
+}
+
+.body2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    padding: 32px;
+}
+
+.child1 {
+    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.info3 {
+    border: 8px #3882f6;
+    background: #E5E7EB;
+    width: 150px;
+    height: 150px;
+    
+}
+
+.normal {
+    font-size: 12px;
+    color:black;
+    text-align: center;
+}
